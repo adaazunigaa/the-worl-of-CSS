@@ -1,13 +1,13 @@
 h2{
-    color: indigo;
-    background-color: lightpink;
+    color: grey;
+    background-color: violet;
 }
 
 button{
     color: red;
-    background-color: lavenderblush;
+    background-color: orange;
 }
 
 p {
-    color: rgb(12, 241, 12);
+    color: rgb(5, 56, 5);
 }
