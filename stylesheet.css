@@ -1,8 +1,9 @@
 h1{
     text-align: center;
     font-weight: normal;
-    text-decoration: red line-through dotted 1px;
+    text-decoration: red line-through wavy 1px;
     letter-spacing: 15px;
+    font-size: 70px;
 }
 
 a{
