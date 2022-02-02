@@ -1,13 +1,14 @@
-h2{
-    color: grey;
-    background-color: violet;
+h1{
+    text-align: center;
+    font-weight: normal;
+    text-decoration: red line-through dotted 1px;
+    letter-spacing: 15px;
 }
 
-button{
-    color: red;
-    background-color: orange;
+a{
+    text-decoration: none;
 }
 
-p {
-    color: rgb(5, 56, 5);
+p{
+    line-height: 2;
 }
