@@ -52,7 +52,9 @@ h1, h2{
 }
 
 .post a{
-    color: #42bfdd;
+    color: #2b88a0;
+    text-decoration: none;
+    font-weight: bolder;
 }
 
 footer a{
@@ -89,4 +91,26 @@ section.post{
 
 a[href*="google"]{
     color: #540d6e;
+}
+
+button:hover{
+    background-color: #8093f1 ;
+    color: #fdc5f5;
+}
+
+.post button:hover{
+    background-color: #64a6bd;
+    color: #f4cae0;
+}
+
+.post a:hover{
+    color: #ff3366;
+} 
+
+.post button:active{
+    background-color: rgb(243, 82, 23);
+}
+
+.post:nth-of-type(2n){
+    background-color: rgb(119, 118, 118);
 }
