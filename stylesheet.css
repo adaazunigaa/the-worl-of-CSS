@@ -93,6 +93,7 @@ a[href*="google"]{
     color: #540d6e;
 }
 
+/*PSEUDO CLASSES*/
 button:hover{
     background-color: #8093f1 ;
     color: #fdc5f5;
@@ -113,4 +114,19 @@ button:hover{
 
 .post:nth-of-type(2n){
     background-color: rgb(119, 118, 118);
+}
+
+
+/*Pseudo Elements*/
+h2::first-letter{
+    font-size: 40px;
+    color: rgb(2, 2, 68);
+}
+
+p::first-line{
+    color: blueviolet;
+}
+
+p::selection{
+    background-color: rgb(205, 135, 222);
 }
