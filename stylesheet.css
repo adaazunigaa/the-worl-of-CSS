@@ -50,3 +50,11 @@ h1, h2{
     color: #ea698b;
     background-color: #571089;
 }
+
+.post a{
+    color: #42bfdd;
+}
+
+footer a{
+    color: #007f5f;
+}
