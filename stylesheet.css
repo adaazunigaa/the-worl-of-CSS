@@ -17,17 +17,32 @@ p{
 }
 */
 
-/*Universal Selectors*/
+/*UNIVERSAL SELECTORS
 *{
     color: pink;
     background: rebeccapurple;
 }
+*/
+
+body{
+    background-color: #fffcf2;
+}   
 
 button{
     font-size: 30px;
+    background-color: #ccc5b9 ;
 }
 
 h1, h2{
-    color: rgb(8, 142, 187);
+    color: #252422;
+}
+
+.search {
+    color: red;
+}
+
+#signup{
+    background-color: #229e99;
+    color: #403d39;
 }
 
