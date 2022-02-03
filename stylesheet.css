@@ -58,3 +58,12 @@ h1, h2{
 footer a{
     color: #007f5f;
 }
+
+h2 + button{
+    background-color: #e5acef;
+    font-size: 15px;
+}
+
+footer > a{
+    color: #00509d;
+}
