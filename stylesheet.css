@@ -1,3 +1,4 @@
+/*
 h1{
     text-align: center;
     font-weight: normal;
@@ -14,3 +15,19 @@ a{
 p{
     line-height: 2;
 }
+*/
+
+/*Universal Selectors*/
+*{
+    color: pink;
+    background: rebeccapurple;
+}
+
+button{
+    font-size: 30px;
+}
+
+h1, h2{
+    color: rgb(8, 142, 187);
+}
+
