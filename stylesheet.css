@@ -37,7 +37,7 @@ h1, h2{
     color: #252422;
 }
 
-.search {
+#search {
     color: red;
 }
 
@@ -46,3 +46,7 @@ h1, h2{
     color: #403d39;
 }
 
+.tag{
+    color: #ea698b;
+    background-color: #571089;
+}
