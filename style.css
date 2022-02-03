@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 div{
     width: 200px;
     height: 200px;
@@ -7,6 +11,7 @@ div{
      background-color: #caf0f8;
      padding-left: 80px;
      padding-top: 40px;
+     margin-bottom: 25px;
 
  }
 
@@ -14,7 +19,9 @@ div{
      background-color: #9b5de5;
      border: 4px solid black;
      box-sizing: border-box;
-     border-radius: 10%;     
+     border-radius: 10%;    
+     margin-left: 15px; 
+     margin-bottom: 15px;
  }
 
 
@@ -26,6 +33,7 @@ div{
      border-left-color: #ffc6ff;
      border-left-width: 8px;
      padding-right: 30px;
+     margin: 25px;
  }
 
  #three{
