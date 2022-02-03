@@ -59,11 +59,13 @@ footer a{
     color: #007f5f;
 }
 
+/*Adjacent Descendant Selector*/
 h2 + button{
     background-color: #e5acef;
     font-size: 15px;
 }
 
+/*Direct Descendant Selector*/ 
 footer > a{
-    color: #00509d;
+    color: #dc0073;
 }
