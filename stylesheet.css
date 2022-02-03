@@ -99,10 +99,7 @@ button:hover{
     color: #fdc5f5;
 }
 
-.post button:hover{
-    background-color: #64a6bd;
-    color: #f4cae0;
-}
+
 
 .post a:hover{
     color: #ff3366;
@@ -129,4 +126,15 @@ p::first-line{
 
 p::selection{
     background-color: rgb(205, 135, 222);
+}
+
+
+/*Specificity*/
+.post button:hover{
+    background-color: #64a6bd;
+    color: #f4cae0;
+}
+button:hover{
+    background-color: olive;
+    font-size: 20px;
 }
