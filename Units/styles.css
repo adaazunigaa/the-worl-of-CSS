@@ -1,3 +1,6 @@
+html{
+    font-size: 10px;
+}
 section{
     background-color: #c45f2a;
     width: 500px;
@@ -40,3 +43,22 @@ button{
 p{
     font-size: 1em;
 }
+
+ul{
+    font-size: 1.5em;
+}
+
+/* UNITS -> REM's */
+#rem h2{
+    font-size: 3rem;
+}
+
+#rem h3{
+    font-size: 2rem;
+}
+
+#rem ul{
+    font-size: 1.2rem;
+}
+
+
